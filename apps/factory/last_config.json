@@ -1,0 +1,14 @@
+{
+  "dataset_dir": "C:/Users/SONG/Desktop/KELE/data",
+  "names": [
+    "可乐"
+  ],
+  "model": "yolo11n",
+  "imgsz": 640,
+  "epochs": 1000,
+  "batch": 32,
+  "weights_root": "C:\\K230Tools_79968cb9\\workspace\\weights",
+  "work_dir": "C:\\K230Tools_79968cb9\\workspace\\work",
+  "out_dir": "C:/Users/SONG/Desktop/KELE/data/labels",
+  "tag": "可乐"
+}
